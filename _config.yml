@@ -12,7 +12,7 @@ title                    : "Jiahao Liu's Academic Homepage"
 title_separator          : "-"
 name                     : &name "Jiahao Liu"
 description              : &description " junior faculty in OUC"
-url                      : https://JaxLau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://flyfiber.github.io/JaxLau.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://flyfiber.github.io/JaxLau.github.io/"
 
