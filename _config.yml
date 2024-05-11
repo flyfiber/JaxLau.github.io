@@ -21,7 +21,7 @@ repository               : "https://flyfiber.github.io/JaxLau.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Liu.jpg"
+  avatar           : "Liu.png"
   name             : "Jiahao Liu"
   pronouns         : # example: "he/him"  
   bio              : "Junior faculty in OUC"
